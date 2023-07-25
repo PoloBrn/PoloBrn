@@ -1,26 +1,33 @@
-# Paul Bréon
+# Paul Bréon - Computer Engineering Student and VR Enthusiast 🚀🎮🎵
 
-## Presentation
-I am Paul Bréon, a computer engineering student at CESI Rouen. Currently, I am pursuing my studies through an apprenticeship at CESI LINEACT research laboratory, where I am specializing in the exciting fields of virtual and augmented reality. This experience has allowed me to develop numerous skills in computer science, particularly in development, object-oriented programming (OOP), and networking.
-Apart from my passion for computer science, I am an avid musician actively involved with the Société Musicale de Criquetot l'Esneval. As a drummer and conductor for the youth orchestra, music holds a very special place in my life.
+## Introduction
 
-## Projets
-### 3, 2, 1 Dimensions !
-This project is the biggest in my GitHub because it has the most complexe objective and is to create a puzzle game based on the perseption of the dimensions and create everything in it ! That include the musics the renderer the Assets write all the scripts the font, ..., **everything** !
-The main objective is to publish the game (on Steam for example) when it will be finish to share it to everyone.
+Hello there! 👋 I'm Paul Bréon, a passionate computer engineering student at CESI Rouen. Currently, I am diving deep into the fascinating realms of virtual and augmented reality as part of my apprenticeship at CESI LINEACT research laboratory. Through this journey, I have honed my skills in various areas of computer science, including development, object-oriented programming (OOP), and networking.
 
-### VR Ping Pong
-To learn how does the virtual reality works in Unity and in general, I wanted to create a little game as an introduction to the virtual reality to me. The objective is to create a Ping-Pong in virtual reality. A possible amelioration could be to add multiplayers in it and I think that would be the next step.
+When I'm not immersed in the world of computer science, you'll find me captivated by another passion of mine - music 🎵. I'm actively involved with the Société Musicale de Criquetot l'Esneval, where I'm both a skilled drummer and a conductor for the youth orchestra. Music holds a very special place in my heart, and it adds a unique rhythm to my life.
 
-### My Web Site
-To improve my competences in HTML, CSS and JavaScript I wanted to create my own web-site. This web-site is also an opportunity to share my profil, competences and projects and also share my hobbies like the music.
-If you want to go on my web-site you can juste click [here](https://polobrn.github.io/web-site/) or flash the QR Code.
+## Projects
 
-![](dl-files/Capture%20d'%C3%A9cran%202023-07-25%20145338.png)
+### 3, 2, 1 Dimensions! 🎮
 
-### CESI Projects
-As a student in the CESI I work with GitHub to collaborate with my team mates. In public you can see the [Web-Project](https://github.com/PoloBrn/WebProject) from my second year at CESI with Léo and Damien. You can also see some others in my team mates GitHub with the [POO-Project](https://github.com/eraflo/POO_Project) and the [Embedded-Systems](https://github.com/timo-thi/Projet_embarque).
+Behold my largest and most ambitious project on GitHub! "3, 2, 1 Dimensions!" is a puzzle game that challenges players to perceive dimensions in a mind-bending manner. As the creator, I've poured my heart and soul into every aspect of the game, from music composition to asset creation, scripting, and more. The ultimate goal is to publish this game, sharing its immersive experience with everyone, possibly on platforms like Steam.
 
-### External links
-[LinkedIn](https://www.linkedin.com/in/paul-br%C3%A9on-b7a083257/)
-[My-web-site](https://polobrn.github.io/web-site/)
+### VR Ping Pong 🏓
+
+To grasp the magic of virtual reality, I embarked on a journey to create a small introductory game. "VR Ping Pong" brings the classic game into the virtual world, allowing players to feel the excitement firsthand. I'm excited about the potential to add multiplayer functionality, which is the next step in enhancing the experience.
+
+### My Personal Website 🌐
+
+Seeking to enhance my skills in HTML, CSS, and JavaScript, I took on the challenge of creating my very own website. This platform not only showcases my profile, skills, and projects but also gives me an opportunity to share my passion for music. You can visit my website by simply clicking [here](https://polobrn.github.io/web-site/) or scanning the QR code below:
+
+![Website QR Code](dl-files/Capture%20d'%C3%A9cran%202023-07-25%20145338.png)
+
+### CESI Projects 👨‍💻
+
+As a CESI student, collaboration with team members on GitHub is second nature. You can explore the [Web-Project](https://github.com/PoloBrn/WebProject) from my second year at CESI, which I worked on alongside Léo and Damien. Additionally, you'll find interesting projects by my talented teammates, such as the [POO-Project](https://github.com/eraflo/POO_Project) and the [Embedded-Systems](https://github.com/timo-thi/Projet_embarque).
+
+## External Links
+
+Let's stay connected! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/paul-br%C3%A9on-b7a083257/), visit my [personal website](https://polobrn.github.io/web-site/), and explore my projects on GitHub.
+
+Thank you for visiting my GitHub profile! If you have any questions or just want to chat about exciting tech or music ventures, don't hesitate to get in touch. Have a wonderful day! 😄🎉
