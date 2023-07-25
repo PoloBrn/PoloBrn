@@ -15,6 +15,7 @@ To learn how does the virtual reality works in Unity and in general, I wanted to
 ### My Web Site
 To improve my competences in HTML, CSS and JavaScript I wanted to create my own web-site. This web-site is also an opportunity to share my profil, competences and projects and also share my hobbies like the music.
 If you want to go on my web-site you can juste click [here](https://polobrn.github.io/web-site/) or flash the QR Code.
+
 ![](dl-files/Capture%20d'%C3%A9cran%202023-07-25%20145338.png)
 
 ### CESI Projects
